@@ -30,8 +30,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-me-steel.vercel.app/api?username=Douglashc&include_all_commits=true&show_icons=true&theme=algolia" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-me-steel.vercel.app/api/top-langs/?username=Douglashc&layout=compact&hide=blade,css&langs_count=8&theme=algolia" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-me-steel.vercel.app/api?username=Douglashc&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-me-steel.vercel.app/api/top-langs/?username=Douglashc&layout=compact&hide=blade,css&langs_count=8&count_private=true&theme=algolia" height="150" alt="languages graph"  />
 </div>
 
 ###
