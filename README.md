@@ -19,9 +19,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 
-  <a href="https://neon-portfolio-rouge.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
-</a>
+<a href="https://neon-portfolio-rouge.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge"
+      alt="Portfolio"
+    />
+  </a>
 </div>
 
 ###
