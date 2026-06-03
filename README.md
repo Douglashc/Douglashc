@@ -18,9 +18,10 @@
   <a href="https://www.linkedin.com/in/douglas-chavarria-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+
   <a href="https://neon-portfolio-rouge.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&color=0A0A0A&logoColor=white&style=for-the-badge" height="40" alt="portfolio logo" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
+</a>
 </div>
 
 ###
