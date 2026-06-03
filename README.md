@@ -23,8 +23,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Douglashc/Douglashc/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Douglashc/Douglashc/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-me-steel.vercel.app/api?username=Douglashc&show_icons=true&theme=algolia" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-me-steel.vercel.app/api/top-langs/?username=Douglashc&layout=compact&hide=blade,css&langs_count=8&theme=algolia" height="150" alt="languages graph"  />
 </div>
 
 ###
