@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
 C#           5 hrs 46 mins         ███████████████████░░░░░░   75.59 %
 Dart         1 hr 26 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
