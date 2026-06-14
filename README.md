@@ -97,12 +97,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
-Dart         1 hr 26 mins          █████████████████████▒░░░   85.98 %
-Text         12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
