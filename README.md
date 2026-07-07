@@ -101,13 +101,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 05 July 2026
+From: 29 June 2026 - To: 06 July 2026
 
-TypeScript   8 hrs 24 mins         ██████████████████▒░░░░░░   73.42 %
-YAML         2 hrs 55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-TSConfig     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         2 hrs 55 mins         █████████████▒░░░░░░░░░░░   52.88 %
+TypeScript   2 hrs 30 mins         ███████████▒░░░░░░░░░░░░░   45.17 %
+TSConfig     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
