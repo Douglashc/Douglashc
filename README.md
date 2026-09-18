@@ -101,11 +101,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-TypeScript   17 hrs 17 mins        ████████████████░░░░░░░░░   63.34 %
-JavaScript   3 hrs 55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Other        2 hrs 54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+TypeScript   15 hrs 38 mins        ████████████████░░░░░░░░░   63.75 %
+JavaScript   3 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Other        2 hrs 23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
 ```
 
 <!--END_SECTION:waka-->
