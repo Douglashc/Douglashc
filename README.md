@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQHWSzdZnKTzjg/profile-displaybackgroundimage-shrink_350_1400/B4DZ4uM6h5HAAU-/0/1778891598206?e=1790812800&v=beta&t=2m5pU6zq1v10DM_KuGvD-9xMZzZmvvVfprR4iC_jhVE" alt="Portada de LinkedIn" />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQHWSzdZnKTzjg/profile-displaybackgroundimage-shrink_350_1400/B4DZ4uM6h5HAAU-/0/1778891598206?e=1793836800&v=beta&t=VbEMTCOkGGtbAN5KCeOHozENJvvum0B-0hasDoSwHdI" alt="Portada de LinkedIn" />
 </div>
 
 ###
