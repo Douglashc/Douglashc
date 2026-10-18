@@ -101,13 +101,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-C#                                 1 hr 26 mins          █████████████░░░░░░░░░░░░   52.25 %
-Text                               27 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Markdown                           19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Microsoft Visual Studio Solution   12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Dart                               12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TypeScript                         2 hrs                 █████████░░░░░░░░░░░░░░░░   35.75 %
+C#                                 1 hr 26 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Markdown                           55 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Text                               27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Microsoft Visual Studio Solution   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
