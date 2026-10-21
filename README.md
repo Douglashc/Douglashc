@@ -101,13 +101,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Markdown                           3 hrs 2 mins          █████████▒░░░░░░░░░░░░░░░   37.58 %
-TypeScript                         2 hrs 12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-C#                                 1 hr 26 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-Text                               27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-JSON                               16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown                           7 hrs 55 mins         ████████████░░░░░░░░░░░░░   48.43 %
+TypeScript                         4 hrs 36 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 %
+C#                                 1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Kotlin                             40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Text                               27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
