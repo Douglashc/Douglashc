@@ -101,13 +101,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Markdown          7 hrs 32 mins         ███████████▒░░░░░░░░░░░░░   45.21 %
-TypeScript        7 hrs 14 mins         ███████████░░░░░░░░░░░░░░   43.38 %
-Kotlin            40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Text              29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JSON              15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Text         3 hrs 8 mins          ████████▓░░░░░░░░░░░░░░░░   34.80 %
+Dart         2 hrs 28 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 %
+TypeScript   1 hr 31 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Markdown     1 hr 30 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Other        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
